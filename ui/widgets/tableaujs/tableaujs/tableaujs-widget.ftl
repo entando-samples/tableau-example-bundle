@@ -7,8 +7,9 @@
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/runtime-main.403592fd.js"></script>
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/runtime-main.403592fd.js.map"></script>
 <link href="<@wp.resourceURL />chartjs-bundle/static/css/main.a617e044.chunk.css" rel="stylesheet">
+<link href="<@wp.resourceURL />chartjs-bundle/static/css/main.a617e044.chunk.css.map" rel="stylesheet">
 <#-- entando_resource_injection_point -->
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
 <#-- This is the custom element -->
-<chartjs-widget />
+<x-tableaujs-widget />
