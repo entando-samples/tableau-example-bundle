@@ -1,6 +1,6 @@
-code: chartjs-widget
+code: tableaujs-widget
 titles:
-  en: Chart.js Widget
-  it: Chart.js Widget
+  en: Tableau Sample Widget
+  it: Tableau Sample Widget
 group: free
-customUiPath: chartjs-widget.ftl
+customUiPath: tableaujs-widget.ftl
