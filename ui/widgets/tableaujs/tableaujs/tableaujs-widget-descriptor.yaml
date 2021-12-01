@@ -4,3 +4,7 @@ titles:
   it: Tableau Sample Widget
 group: free
 customUiPath: tableaujs-widget.ftl
+configUi:
+  customElement: x-tableaujs-app-config
+  resources:
+# entando_resource_injection_point
