@@ -9,4 +9,5 @@
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
 <#-- This is the custom element -->
-<x-tableaujs-widget />
+<@wp.currentWidget param="config" configParam="url" var="urlString"/>
+<x-tableaujs-widget url="${urlString}"/>
