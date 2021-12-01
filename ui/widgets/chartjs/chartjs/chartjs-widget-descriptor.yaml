@@ -1,0 +1,6 @@
+code: chartjs-widget
+titles:
+  en: Chart.js Widget
+  it: Chart.js Widget
+group: free
+customUiPath: chartjs-widget.ftl
