@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
 <script src="<@wp.resourceURL />tableaujs-bundle/static/js/2.71e376a3.chunk.js"></script>
-<script src="<@wp.resourceURL />tableaujs-bundle/static/js/main.4909c4f2.chunk.js"></script>
+<script src="<@wp.resourceURL />tableaujs-bundle/static/js/main.b775fd0b.chunk.js"></script>
 <script src="<@wp.resourceURL />tableaujs-bundle/static/js/runtime-main.182c46c0.js"></script>
 
 <link href="<@wp.resourceURL />tableaujs-bundle/static/css/main.6dea0f05.chunk.css" rel="stylesheet">
